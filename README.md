@@ -1,5 +1,5 @@
-# Joncarter
-Beautiful HTML,CSS and Bootstrap Portfolio
+# 
+The existing code was initially created by Jon Carter, but I have recently redesigned it. Originally, the project was developed using HTML, CSS and Bootstrap and However, I have rewritten the code from scratch using Django and Bootstrap. Both versions of the code can be found in my public repository. 
 
 # Demo
 - https://joncarter.netlify.app/
@@ -17,6 +17,7 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 
 
 # Credit
+- https://github.com/SA7MAN/joncarter
 - https://fonts.google.com/
 - https://line-awesome.com/
 - https://unsplash.com/
